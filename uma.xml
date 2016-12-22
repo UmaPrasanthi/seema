@@ -1,0 +1,5 @@
+<project name="uma">
+	<target name="varam"		
+		<echo>this is file</echo>
+	</target>
+</project>
